@@ -9,7 +9,7 @@ body{font-family: "Arial", "Meiryo", sans-serif;}
 <style>
 html{font-size: 20px;}
 
-.google-fonts{font-size: 2rem;}
+h1{font-size: 2rem;}
 
 .text-color{color: skyblue;}
 
@@ -27,5 +27,6 @@ body{text-align: center;}
 
 .google-fonts{border-bottom: solid 3px rgb(115, 115, 114);}
 
-#parent{font-weight: bold;}
+#parent bold-text{font-weight: bold;}
+
 
