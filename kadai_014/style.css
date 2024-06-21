@@ -6,7 +6,7 @@
 }
 body{font-family: "Arial", "Meiryo", sans-serif;}
 
-<style>
+
 html{font-size: 20px;}
 
 h1{font-size: 2rem;}
@@ -27,6 +27,6 @@ body{text-align: center;}
 
 .google-fonts{border-bottom: solid 3px rgb(115, 115, 114);}
 
-#parent bold-text{font-weight: bold;}
+#basic p{font-weight: bold;}
 
 
